@@ -1,5 +1,8 @@
 # Random Search
 
+![GitHub top language](https://img.shields.io/github/languages/top/A-nshuman/random_search)
+![GitHub repo size](https://img.shields.io/github/repo-size/A-nshuman/random_search?color=yellow)
+
 A Python script that automates random web searches using Selenium and the Microsoft Edge browser.
 
 ## Table of Contents
